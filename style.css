@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "naga";
+  src: url("./asset/fonts/naga.otf") format("opentype"),
+    url("./asset/fonts/naga.ttf") format("truetype");
+}
+.print {
+  color: #c82d2f;
+  font-family: "dancing script", cursive;
+  text-align: center;
+  margin-top: 10%;
+  font-size: 140px;
+}
+.Z {
+  color: black;
+  font-weight: bold;
+  font-family: "naga", sans-serif;
+}
+h2 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(252, 251, 250);
+}
